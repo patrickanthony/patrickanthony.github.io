@@ -1,0 +1,16 @@
+current directory: /root/Repos/patrickanthony.github.io/patrickanthony.github.io/vendor/cache/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.3 -r ./siteconf20180215-27175-1ccw0r5.rb extconf.rb
+creating Makefile
+
+current directory: /root/Repos/patrickanthony.github.io/patrickanthony.github.io/vendor/cache/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /root/Repos/patrickanthony.github.io/patrickanthony.github.io/vendor/cache/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /root/Repos/patrickanthony.github.io/patrickanthony.github.io/vendor/cache/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20180215-27175-8ktda3
